@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application5</string>
+    <string-array name="cinema">
+    <item>中影国际城</item>
+    <item>金逸影城</item>
+    <item>大地影院</item>
+    <item>金棕榈国际影城</item>
+    <item>银谷影城</item>
+    </string-array>
+    <string-array name="time">
+        <item>早场（8：00-10：00）</item>
+        <item>中场（11：00-13：00）</item>
+        <item>晚场（19：00-21：00）</item>
+    </string-array>
+</resources>
